@@ -1,0 +1,2 @@
+There are other topics to be studied in the Devops. '
+Mainly: docker,kubernets,ansibles, nagios.
